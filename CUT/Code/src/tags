@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Add_student	menu_librarian.c	/^void Add_student()$/;"	f
+Delete	menu_librarian.c	/^void Delete()$/;"	f
+Delete_student	menu_librarian.c	/^void Delete_student()$/;"	f
+Display_books	menu_student.c	/^void Display_books()$/;"	f
+Display_student	menu_librarian.c	/^void Display_student()$/;"	f
+Issue_book	menu_librarian.c	/^void Issue_book()$/;"	f
+New_User	menu_student.c	/^void New_User()$/;"	f
+Return_books	menu_student.c	/^void Return_books()$/;"	f
+Search_student	menu_librarian.c	/^void Search_student()$/;"	f
+add_record	menu_librarian.c	/^void add_record( )$/;"	f
+admin	admin.c	/^int admin( )$/;"	f
+clear	clear.c	/^void clear( )$/;"	f
+display	menu_librarian.c	/^void display()$/;"	f
+head	menu_librarian.c	/^book *head = NULL;$/;"	v
+head1	menu_librarian.c	/^stud *head1= NULL;$/;"	v
+head2	menu_student.c	/^stud *head2 = NULL;$/;"	v
+head3	menu_student.c	/^book *head3 = NULL;$/;"	v
+head4	menu_student.c	/^bs *head4 = NULL;$/;"	v
+main	main.c	/^int main( )$/;"	f
+menu_librarian	menu_librarian.c	/^void menu_librarian( )$/;"	f
+menu_student	menu_student.c	/^void menu_student()$/;"	f
+options	options.c	/^void options( )$/;"	f
+search	menu_librarian.c	/^void search()$/;"	f
+student	student.c	/^int student( )$/;"	f
+validatename	menu_librarian.c	/^int validatename(char *bookname)$/;"	f
+validatestudentname	menu_librarian.c	/^int validatestudentname(char *studentname)$/;"	f
+validatestudentname1	menu_student.c	/^int validatestudentname1(char *studentname)$/;"	f
